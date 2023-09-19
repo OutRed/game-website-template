@@ -3,11 +3,7 @@
 
 Want to create your own game website, but don't know how to code? This is a repo with a pre-made game website with 300+ games! You can easily customize this to your needs!
 
-
-## Demo
-
-https://game-website-template-demo.outred.dev
-
+# This will eventually be available to purchase for $5.00, and a demo URL will be provided soon.
 
 ## Features
 
@@ -15,8 +11,8 @@ https://game-website-template-demo.outred.dev
 - Themes
 - Easily customizable
 - Lightweight
-- No game files are stored, don't worry about getting DMCA'd
-- Built in static proxy with multiple bare servers to avoid getting blocked
+- No game files are stored, so you don't have to worry about getting DMCA'd
+- Built-in static proxy with multiple bare servers to avoid getting blocked
 
 
 ## Contributing
