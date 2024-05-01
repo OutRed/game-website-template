@@ -1,7 +1,7 @@
 
 # Game Website Template (WIP)
 
-Want to create your own game website, but don't know how to code? This is a repo with a pre-made game website with 300+ games! You can easily customize this to your needs!
+Want to create your own game website, but don't know how to code? This is a repo with a pre-made game website with 300+ games! It will also be self explanatory on how to customize it to your needs. or just skid from my v4 repo go ahead
 
 # This will eventually be available to purchase for $5.00, and a demo URL will be provided soon.
 
